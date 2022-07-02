@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="home" />
+        <item
+            android:id="@+id/nav_shop"
+            android:icon="@drawable/ic_shopping_cart"
+            android:title="shop" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_event_available"
+            android:title="events" />
+        <item
+            android:id="@+id/nav_messages"
+            android:icon="@drawable/ic_message"
+            android:title="messages" />
+
+        <item
+            android:id="@+id/nav_friends"
+            android:icon="@drawable/ic_group"
+            android:title="friends" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="settings" />
+
+        <item
+            android:id="@+id/nav_communities"
+            android:icon="@drawable/ic_forum"
+            android:title="communities" />
+
+    </group>
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TechNews</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="desc">The latest tech news about the worlds best  hardware, apps, and much more. From top companies like Google and Apple to tiny startups vying for your attention, Verge Tech has the latest in what matters in technology daily.</string>
+    <string name="forget_password">Forgot your login details? <font style="bold" color="#00ABD3">Get help logging in</font></string>
+    <string name="sign_up">Don\'t have an account? <font style="bold" color="#00ABD3">Sign up</font></string>
+    <string name="sign_in">Already have an account? <font style="bold" color="#00ABD3">Log in</font></string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYXRlZm1pbGFkaSIsImEiOiJjbDJpNnVwcjcwM21lM2lwbDlzMGtwM2NyIn0.L68iRstpX4uDGcxeW9E9vA</string>
+    <string name="mustNotBeEmpty">Must not be empty !</string>
+    <string name="checkYourEmail">Check your email !</string>
+</resources>
